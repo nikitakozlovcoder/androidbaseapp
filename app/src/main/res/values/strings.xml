@@ -11,5 +11,7 @@
     <string name="login">Войти</string>
     <string name="invalid_password">Пароль не подходит</string>
     <string name="invalid_email">Такой пользователь не найден</string>
+    <string name="title_recipes_list">Recipes</string>
+    <string name="title_recipe">Resipe</string>
 
 </resources>

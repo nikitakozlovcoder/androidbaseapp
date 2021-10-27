@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>title one</item>
+        <item>title two</item>
+        <item>title three</item>
+        <item>title fore</item>
+        <item>title five</item>
+        <item>title 6</item>
+        <item>title 7</item>
+        <item>title 8</item>
+        <item>title 9</item>
+        <item>title 10</item>
+        <item>title 11</item>
+        <item>title 12</item>
+        <item>title 13</item>
+        <item>title 14</item>
+        <item>title 15</item>
+        <item>title 16</item>
+        <item>title 17</item>
+        <item>title 18</item>
+        <item>title 19</item>
+        <item>title 20</item>
+        <item>title 21</item>
+        <item>title 22</item>
+        <item>title 23</item>
+        <item>title 24</item>
+        <item>title 25</item>
+        <item>title 26</item>
+        <item>title 27</item>
+        <item>title 28</item>
+        
+       
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>description one</item>
+        <item>description two</item>
+        <item>description three</item>
+        <item>description fore</item>
+        <item>description five</item>
+        <item>description 6</item>
+        <item>description 7</item>
+        <item>description 8</item>
+        <item>description 9</item>
+        <item>description 10</item>
+        <item>description 11</item>
+        <item>description 12</item>
+        <item>description 13</item>
+        <item>description 14</item>
+        <item>description 15</item>
+        <item>description 16</item>
+        <item>description 17</item>
+        <item>description 18</item>
+        <item>description 19</item>
+        <item>description 20</item>
+        <item>description 21</item>
+        <item>description 22</item>
+        <item>description 23</item>
+        <item>description 24</item>
+        <item>description 25</item>
+        <item>description 26</item>
+        <item>description 27</item>
+        <item>description 28</item>
+    </string-array>
+</resources>

@@ -1,5 +1,5 @@
 package com.example.ourapplication.ui.activities.contracts
 
-interface INavigatable {
+interface INavigatableActivity {
     fun navigateTo(dest: Int);
 }

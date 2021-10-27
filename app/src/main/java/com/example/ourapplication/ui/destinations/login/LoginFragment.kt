@@ -8,10 +8,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import com.example.ourapplication.R
-import com.example.ourapplication.databinding.FragmentMainBinding
 import com.example.ourapplication.databinding.LoginFragmentBinding
-import com.example.ourapplication.ui.activities.contracts.INavigatable
+import com.example.ourapplication.ui.activities.contracts.INavigatableActivity
 import com.example.ourapplication.viewmodels.login.LoginViewModel
 
 class LoginFragment : Fragment() {
@@ -19,13 +17,13 @@ class LoginFragment : Fragment() {
     companion object {
         fun newInstance() = LoginFragment()
     }
-    private lateinit var navCallback: INavigatable
+    private lateinit var navCallback: INavigatableActivity
     private lateinit var viewModel: LoginViewModel
     private lateinit var binding: LoginFragmentBinding
 
     override fun onAttach(context: Context) {
         super.onAttach(context)
-        navCallback = context as INavigatable
+        navCallback = context as INavigatableActivity
     }
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
